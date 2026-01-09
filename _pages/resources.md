@@ -1,9 +1,7 @@
 ---
-permalink: /
+permalink: /resources/
 layout: single
 title: "resources"
-redirect_from: 
-  - /resources/
 author_profile: false
 ---
 
